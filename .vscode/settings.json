@@ -1,0 +1,11 @@
+// Folders in your home directory to look into for virtual environments.
+{
+  "window.zoomLevel": 0,
+  "python.venvFolders": [".venv"],
+  "python.analysis.typeCheckingMode": "off",
+  "typescript.format.enable": false, // 組み込みのフォーマッターは無効にする
+  "editor.defaultFormatter": "esbenp.prettier-vscode", // Prettier を使う
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.formatOnPaste": true
+}
